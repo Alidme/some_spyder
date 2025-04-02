@@ -1,2 +1,2 @@
 # some_spyder
-一些py爬虫
+一些python爬虫
